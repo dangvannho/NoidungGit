@@ -22,3 +22,5 @@ Sau khi hoàn tất dăng nhập.Nhấn nút **"New repository"**
 - **Untracked:** Là tập tin không thuộc quản lí của git
 
 - **Tracked:** Là tập tin được đánh dấu theo dõi trong git. Trạng thái - **tracked** sẽ có thêm các trạng thái khác như là **Unmodified**(chưa chỉnh sửa) , **Modified**(đã chỉnh sửa) và **Staged**(đã sẵn sàng để commit)
+
+## aa
